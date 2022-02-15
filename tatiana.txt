@@ -1,0 +1,11 @@
+commit 1f66ab7f77c068a18384554d4df6f65432decfd4
+Author: Tatiana Cabrera Vargas <tatacabrera@misena.edu.co>
+Date:   Tue Feb 15 08:45:57 2022 -0500
+
+    Adicionamos archivo de txt
+
+commit 7d6a3beb7a0a0ad8c89b9105f08f3cc4afd1fbc6
+Author: Tatiana Cabrera Vargas <tatacabrera@misena.edu.co>
+Date:   Tue Feb 15 07:51:10 2022 -0500
+
+    Adicionamos equipo.html, home.html, index.html, servicios.html y style.css
